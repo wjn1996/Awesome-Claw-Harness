@@ -44,6 +44,10 @@ Format:
 ```
 
 
+- [EC²-Bench (EC2-Bench): Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution](https://arxiv.org/pdf/2610.17816) [[GitHub](https://github.com/OpenBMB/EC2-Bench)] [[HomePage](https://passionate11.github.io/ec2-bench-project-page/)] [10/13/26]
+  - Northeastern University (China), etc.
+  - Category: Edge-Cloud Collaboration, OpenClaw, Benchmarking
+
 - [SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://arxiv.org/pdf/2602.12670) [[HomePage](https://www.skillsbench.ai/)] [03/13/26]
   - BenchFlow, Ohio State University, etc.
   - Category: Agent Skills, Benchmarking
